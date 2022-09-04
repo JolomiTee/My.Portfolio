@@ -745,8 +745,6 @@ main{
 }
 .skill-repr{
     color: var(--vegas-gold);
-    position: relative;
-    transform: translateX(80%);
 }
 
 
