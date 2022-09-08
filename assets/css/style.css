@@ -1315,7 +1315,7 @@ textarea.form-input::-webkit-resizer{ display: none;}
 
     /* SIDEBAR */
     .contact-list{
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
         gap: 30px 15px;
     }
 
