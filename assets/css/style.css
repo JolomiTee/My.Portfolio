@@ -95,6 +95,9 @@ li{ list-style: none;}
 
 img, ion-icon, a, button, time, span{ display: block;}
 
+sup{
+    font-size: 8px;
+}
 button{
     font: inherit;
     background: none;
